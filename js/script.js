@@ -101,12 +101,12 @@ var numKiters;
 elem = document.getElementById("more"); // Find an element 
 window.console.log('numWindsurfers is ' + numWindsurfers + ', ' + 'numKiters is ' + numKiters);           // //Display numWindsurfers and numKiters
 numKiters = 10; // set numKiters =10
-
 */
 
+/*
 // STEP 8
 // No it is incorrect. Fixed below
-/*
+
 var someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"';
 window.console.log(someString);
 */
